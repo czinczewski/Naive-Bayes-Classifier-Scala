@@ -1,6 +1,6 @@
-# ASEiED
-## Naive Bayes Classifier Scala
+## ASEiED
+Naive Bayes Classifier Scala
 
-# Build
+## Build
 Installed Maven is required to run this code.
 
